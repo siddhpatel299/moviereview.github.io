@@ -1,0 +1,154 @@
+body {
+  margin: 10px;
+  background-color: black;
+}
+
+#finalnav {
+  background-image: linear-gradient(67.5deg, rgb(22, 79, 145) 0%, rgb(22, 79, 145) 30%, rgb(55, 93, 131) 30%, rgb(55, 93, 131) 43%, rgb(88, 107, 116) 43%, rgb(88, 107, 116) 46%, rgb(121, 121, 102) 46%, rgb(121, 121, 102) 47%, rgb(154, 135, 87) 47%, rgb(154, 135, 87) 59%, rgb(187, 149, 73) 59%, rgb(187, 149, 73) 95%, rgb(220, 163, 58) 95%, rgb(220, 163, 58) 100%), linear-gradient(90deg, rgb(22, 79, 145) 0%, rgb(22, 79, 145) 30%, rgb(55, 93, 131) 30%, rgb(55, 93, 131) 43%, rgb(88, 107, 116) 43%, rgb(88, 107, 116) 46%, rgb(121, 121, 102) 46%, rgb(121, 121, 102) 47%, rgb(154, 135, 87) 47%, rgb(154, 135, 87) 59%, rgb(187, 149, 73) 59%, rgb(187, 149, 73) 95%, rgb(220, 163, 58) 95%, rgb(220, 163, 58) 100%), linear-gradient(22.5deg, rgb(22, 79, 145) 0%, rgb(22, 79, 145) 30%, rgb(55, 93, 131) 30%, rgb(55, 93, 131) 43%, rgb(88, 107, 116) 43%, rgb(88, 107, 116) 46%, rgb(121, 121, 102) 46%, rgb(121, 121, 102) 47%, rgb(154, 135, 87) 47%, rgb(154, 135, 87) 59%, rgb(187, 149, 73) 59%, rgb(187, 149, 73) 95%, rgb(220, 163, 58) 95%, rgb(220, 163, 58) 100%), linear-gradient(157.5deg, rgb(22, 79, 145) 0%, rgb(22, 79, 145) 30%, rgb(55, 93, 131) 30%, rgb(55, 93, 131) 43%, rgb(88, 107, 116) 43%, rgb(88, 107, 116) 46%, rgb(121, 121, 102) 46%, rgb(121, 121, 102) 47%, rgb(154, 135, 87) 47%, rgb(154, 135, 87) 59%, rgb(187, 149, 73) 59%, rgb(187, 149, 73) 95%, rgb(220, 163, 58) 95%, rgb(220, 163, 58) 100%), linear-gradient(90deg, rgb(238, 101, 198), rgb(224, 55, 79));
+  background-blend-mode: overlay, overlay, overlay, overlay, normal;
+
+  /* background-image: linear-gradient(to right,#6930c3,#e93b81); */
+  border-radius: 50px;
+  padding: 0 40px 0 25px;
+  /* #00ead3 */
+}
+
+.padbrand {
+  padding-left: 15px;
+  font-family: 'Pacifico', cursive;
+  font-weight: 800;
+  font-size: 25px;
+  color: white;
+}
+
+.divul {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+#movie-area {
+  /* background-color: white; */
+  margin: 3%;
+  border: none;
+  border-radius: 25px;
+}
+.img-1 {
+height: 350px;
+width: 600px;
+visibility: visible;
+}
+.img-fluid {
+  margin: 25px 35px 35px -4.5px;
+}
+.row1 {
+  margin-bottom: 3.5%;
+}
+img:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+p{
+  display: none;
+}
+.btn {
+  color: white;
+  opacity: 0.5;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+.btn:hover {
+  opacity: 1;
+  color: white;
+  border-color: white;
+}
+.drpdwn{
+  border: none;
+  border-radius: 15px;
+  /* background-color: #fd7e14; */
+  background-image: radial-gradient(circle at top right, rgb(221, 154, 33),rgb(210, 55, 33));
+  /* background-image: radial-gradient(circle at center right, rgb(240, 101, 23),rgb(242, 194, 28)); */
+  /* background-image: radial-gradient(circle at top center, rgb(243, 177, 46),rgb(230, 153, 36),rgb(217, 129, 26),rgb(204, 104, 15),rgb(191, 80, 5)); */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .area {
+  margin: 20px;
+  border-radius: 25px;
+  background-color: white;
+  height: 400px;
+  width: 800px;
+  background-size: cover;
+} */
+/* LOG in SECTION */
+/* font-family: 'Courgette', cursive; */
+/* font-family: 'Berkshire Swash', cursive; */
+/* font-family: 'Leckerli One', cursive; */
+/* font-family: 'Merienda One', cursive; */
+/* font-family: 'Aladin', cursive; */

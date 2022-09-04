@@ -1,0 +1,101 @@
+#contact {
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  height: 30rem;
+  width:auto;
+  margin: 25px 35px 35px 35px;
+  border-color:solid white;
+  /* background-image: linear-gradient(to right,#6930c3,#e93b81); */
+/* background-image: radial-gradient(circle at top right, rgb(15, 54, 60) 0%, rgb(15, 54, 60) 3%,rgb(62, 41, 84) 3%, rgb(62, 41, 84) 50%,rgb(108, 28, 108) 50%, rgb(108, 28, 108) 60%,rgb(155, 14, 131) 60%, rgb(155, 14, 131) 63%,rgb(201, 1, 155) 63%, rgb(201, 1, 155) 100%); */
+background-image: linear-gradient(90deg, rgb(15, 15, 15),rgb(119, 119, 119)),linear-gradient(67.5deg, rgb(61, 40, 216) 0%, rgb(61, 40, 216) 19%,rgb(55, 42, 182) 19%, rgb(55, 42, 182) 27%,rgb(49, 44, 147) 27%, rgb(49, 44, 147) 37%,rgb(42, 46, 113) 37%, rgb(42, 46, 113) 48%,rgb(36, 48, 78) 48%, rgb(36, 48, 78) 73%,rgb(30, 50, 44) 73%, rgb(30, 50, 44) 100%),linear-gradient(0deg, rgb(61, 40, 216) 0%, rgb(61, 40, 216) 19%,rgb(55, 42, 182) 19%, rgb(55, 42, 182) 27%,rgb(49, 44, 147) 27%, rgb(49, 44, 147) 37%,rgb(42, 46, 113) 37%, rgb(42, 46, 113) 48%,rgb(36, 48, 78) 48%, rgb(36, 48, 78) 73%,rgb(30, 50, 44) 73%, rgb(30, 50, 44) 100%),linear-gradient(22.5deg, rgb(61, 40, 216) 0%, rgb(61, 40, 216) 19%,rgb(55, 42, 182) 19%, rgb(55, 42, 182) 27%,rgb(49, 44, 147) 27%, rgb(49, 44, 147) 37%,rgb(42, 46, 113) 37%, rgb(42, 46, 113) 48%,rgb(36, 48, 78) 48%, rgb(36, 48, 78) 73%,rgb(30, 50, 44) 73%, rgb(30, 50, 44) 100%); background-blend-mode:overlay, overlay, overlay, normal;
+}
+.container {
+  background-color: white;
+  position: absolute;
+  left: 10%;
+  top: 29%;
+  height: 50%;
+  width: 37%;
+  border: none;
+  border-radius: 20px;
+  opacity: 0.8;
+
+}
+.container-2 {
+  background-color: white;
+  position: absolute;
+  right: 10%;
+  top: 29%;
+  height: 50%;
+  width: 37%;
+  border: none;
+  border-radius: 20px;
+  opacity: 0.8;
+}
+form {
+  margin: 30px 10px 10px 10px;
+}
+label {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+.profile-pic {
+  height: 50%;
+  width: 20%;
+  border: none;
+  border-radius: 35px;
+  position: absolute;
+  left: 70%;
+  top: -25%;
+}
+img:hover {
+  opacity: 1;
+}
+hr {
+  position: absolute;
+  left: 8%;
+  top:30%;
+  width: 80%;
+  border-color: black;
+}
+h3{
+  position: absolute;
+  left: 8%;
+  top:15%;
+  font-family: 'Pacifico', cursive;
+  font-size: 35px;
+}
+h3:hover {
+  color: blue;
+  font-style: italic;
+}
+#web{
+  position: absolute;
+  left: 8%;
+  top:40%;
+  font-family: 'Ubuntu', sans-serif;
+}
+#add {
+  position: absolute;
+  left: 8%;
+  top:55%;
+  font-family: 'Ubuntu', sans-serif;
+}
+#con{
+  position: absolute;
+  left: 8%;
+  top:72%;
+  font-family: 'Ubuntu', sans-serif;
+}
+#web:hover ,#add:hover ,#con:hover {
+  font-weight: bold;
+}
+#hr-2 {
+  position: absolute;
+  left: 8%;
+  top:63%;
+  width: 80%;
+  border-color: black;
+}
